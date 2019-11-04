@@ -1,3 +1,6 @@
-# DataLab at ResearchSchool
+All contents publicly available. Main page rendered at [https://researchschool.github.io/researchschool/][1].
 
-Resources for the DataLab which takes place for the first time from May 13th on.
+Please check git branches for past editions.
+
+
+[1]: https://researchschool.github.io/researchschool/
