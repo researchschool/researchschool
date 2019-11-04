@@ -1,4 +1,4 @@
-All contents publicly available. Main page rendered at [https://researchschool.github.io/researchschool/][1].
+All contents publicly available. 
 
 Please check git branches for past editions.
 
