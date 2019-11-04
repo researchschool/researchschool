@@ -1,1 +1,25 @@
+title: "Research school"
+baseurl: /workshop_omics_integration
 theme: jekyll-theme-slate
+
+# where things are
+# where things are
+layouts_dir: ./web/layouts
+includes_dir: ./web/includes
+sass:
+  sass_dir: ./web/sass
+
+plugins:
+  - jemoji
+
+defaults:
+  - values:
+      logosnav: true
+
+menu:
+  - title: Home
+    url:
+  - title: Schedule
+    url: schedule
+  - title: Contact
+    url: contact
