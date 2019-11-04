@@ -6,11 +6,11 @@ title: ResearchSchool
 #### ResearchSchool 
 11 - 29 November 2019, Kungsholmen Vastra Gymnasium
 
-Welcome!
 
-##### Past editions
+The ResearchSchool initiative aims at bringing research to high school students in Stockholm by introducing them to program and to bioinformatics.
 
-The first edition of the ResearchSchool took place in May 2019. You can read more about it [here][1]
+
+**Past editions:** the first edition of the ResearchSchool took place in May 2019. You can read more about it [here][1]
 
 
 
