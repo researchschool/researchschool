@@ -1,0 +1,378 @@
+submitter_id.samples	submitter_id	age_at_initial_pathologic_diagnosis	neoplasm_histologic_grade	tumor_stage.diagnoses	platelet_result_count	weight	year_of_initial_pathologic_diagnosis	ethnicity.demographic	gender.demographic	race.demographic	vital_status.demographic	year_of_birth.demographic	bmi.exposures	height.exposures	weight.exposures	name.tissue_source_site	project.tissue_source_site	days_to_collection.samples	initial_weight.samples
+TCGA-DD-AAVQ-01A	TCGA-DD-AAVQ	38	G2	stage i	128	72	2007	not hispanic or latino	male	asian	Alive	1969	24.62296091	171	72	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2464	80
+TCGA-DD-AAE3-01A	TCGA-DD-AAE3	50	G2	stage i	180	73	2013	not hispanic or latino	male	asian	Alive	1963	26.81359045	165	73	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	342	30
+TCGA-PD-A5DF-01A	TCGA-PD-A5DF	58	G2	stage iiib		72	2007	not hispanic or latino	female	white	Dead	1949	25.81663021	167	72	Fox Chase	Liver hepatocellular carcinoma	1906	140
+TCGA-DD-AA3A-01A	TCGA-DD-AA3A	81	G4	stage i	256	60	2009	not hispanic or latino	female	white	Dead	1928	26.31463532	151	60	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1559	100
+TCGA-G3-A3CG-01A	TCGA-G3-A3CG	80	G2	stage i	131	93	2011	not hispanic or latino	male	white	Alive	1931	32.95068027	168	93	Alberta Health Services	Liver hepatocellular carcinoma	261	270
+TCGA-ED-A8O6-01A	TCGA-ED-A8O6	50	G3	stage iiia		45	2013	not hispanic or latino	female	asian	Dead	1963	16.52892562	165	45	Asterand	Liver hepatocellular carcinoma	97	1030
+TCGA-5C-A9VH-01A	TCGA-5C-A9VH	70	G2	stage i		69	2013	not hispanic or latino	male	white	Alive	1943	25.34435262	165	69	Cureline	Liver hepatocellular carcinoma	127	90
+TCGA-DD-A4NH-01A	TCGA-DD-A4NH	65	G3	stage iiib	226	81	2011	not hispanic or latino	female	white	Alive	1946	32.86137369	157	81	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	335	270
+TCGA-DD-AAEG-01A	TCGA-DD-AAEG	59	G3	stage i	69	40	2012	not hispanic or latino	female	asian	Alive	1953	18.01720643	149	40	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	529	20
+TCGA-EP-A2KB-01A	TCGA-EP-A2KB	46	G2	stage i	133	81	2011	not hispanic or latino	female	white	Dead	1965	29.75206612	165	81	Christiana Healthcare	Liver hepatocellular carcinoma	50	1210
+TCGA-DD-AACC-01A	TCGA-DD-AACC	61	G2	stage i	208	61	2008	not hispanic or latino	male	asian	Dead	1947	22.40587695	165	61	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2029	40
+TCGA-G3-A3CJ-01A	TCGA-G3-A3CJ	52	G2	stage ii	185	72	2011	not hispanic or latino	male	american indian or alaska native	Alive	1959	23.78121284	174	72	Alberta Health Services	Liver hepatocellular carcinoma	113	20
+TCGA-DD-AACE-01A	TCGA-DD-AACE	62	G3	stage i	175	62	2008	not hispanic or latino	male	asian	Alive	1946	23.62444749	162	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1973	170
+TCGA-G3-A6UC-01A	TCGA-G3-A6UC	65	G2	stage iiib	257	91	2012	not hispanic or latino	male	white	Alive	1947	27.47252747	182	91	Alberta Health Services	Liver hepatocellular carcinoma	266	410
+TCGA-FV-A23B-01A	TCGA-FV-A23B	70		stage ii			2005	not hispanic or latino	female	white	Dead	1935				International Genomics Consortium	Liver hepatocellular carcinoma	2030	110
+TCGA-ZP-A9CY-01A	TCGA-ZP-A9CY	66	G1	not reported	93000	83	2011	not hispanic or latino	female	white	Alive	1945	35.92451524	152	83	Medical College of Wisconsin	Liver hepatocellular carcinoma	839	30
+TCGA-NI-A8LF-01A	TCGA-NI-A8LF	74	G3	stage i	132	104	2012	not hispanic or latino	male	white	Alive	1938	35.56649909	171	104	Roswell Park	Liver hepatocellular carcinoma	422	240
+TCGA-DD-AAEH-01A	TCGA-DD-AAEH	73	G2	stage i	223	62	2012	not hispanic or latino	male	asian	Alive	1939	23.33546614	163	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	553	10
+TCGA-DD-AAE9-01A	TCGA-DD-AAE9	69	G3	stage i	138	63	2012	not hispanic or latino	male	asian	Alive	1943	23.14049587	165	63	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	419	40
+TCGA-DD-AACQ-01A	TCGA-DD-AACQ	50	G3	stage ii	157	64	2009	not hispanic or latino	male	asian	Dead	1959	22.40817899	169	64	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1665	40
+TCGA-DD-A11B-01A	TCGA-DD-A11B	73	G2	stage i	90	134	2005	not hispanic or latino	male	white	Dead	1932	40.90229236	181	134	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1975	280
+TCGA-ED-A7XO-01A	TCGA-ED-A7XO	29	G2	stage iiia		64	2013	not hispanic or latino	male	asian	Alive	1984	20.89795918	175	64	Asterand	Liver hepatocellular carcinoma	77	1430
+TCGA-DD-AAVS-01A	TCGA-DD-AAVS	56	G2	stage i	281	72	2007	not hispanic or latino	male	asian	Alive	1951	25.20920136	169	72	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2201	60
+TCGA-DD-A4ND-01A	TCGA-DD-A4ND	56	G3	stage i		89	2007	not hispanic or latino	female	white	Alive	1951	33.91251334	162	89	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2088	140
+TCGA-CC-A3M9-01A	TCGA-CC-A3M9	45	G3	stage iiia		61	2011	not hispanic or latino	male	asian	Dead	1966	20.14797199	174	61	ILSBio	Liver hepatocellular carcinoma	226	200
+TCGA-CC-A7IJ-01A	TCGA-CC-A7IJ	56	G3	stage ii		54	2013	not hispanic or latino	male	asian	Alive	1957	19.83471074	165	54	ILSBio	Liver hepatocellular carcinoma	168	270
+TCGA-DD-A114-01A	TCGA-DD-A114	42	G3	stage ii	185	74	2005	not hispanic or latino	male	black or african american	Dead	1963	24.72518293	173	74	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2063	250
+TCGA-FV-A3R3-01A	TCGA-FV-A3R3	38	G2	stage i	323	97	2012	not hispanic or latino	female	white	Dead	1974	37.42139578	161	97	International Genomics Consortium	Liver hepatocellular carcinoma	28	90
+TCGA-DD-A4NA-01A	TCGA-DD-A4NA	67	G3	stage iiic	332	93	2009	not hispanic or latino	female	white	Alive	1942	33.74945565	166	93	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1198	110
+TCGA-ES-A2HS-01A	TCGA-ES-A2HS	80	G2	stage i	119	97	2008	not hispanic or latino	male	white	Dead	1928	29.9382716	180	97	University of Florida	Liver hepatocellular carcinoma	1113	320
+TCGA-MR-A520-01A	TCGA-MR-A520	58	G1	stage i		104	2012	not hispanic or latino	male	white	Alive	1954	32.45841266	179	104	University of Minnesota	Liver hepatocellular carcinoma	106	270
+TCGA-ZS-A9CG-01A	TCGA-ZS-A9CG	55	G2	stage ii	382	94	2013	not hispanic or latino	male	white	Alive	1958	29.33741144	179	94	Tayside Tissue Bank	Liver hepatocellular carcinoma	201	50
+TCGA-DD-A4NR-01A	TCGA-DD-A4NR	85	G3	stage i	239	54	2005	not hispanic or latino	female	white	Dead	1920	131.8359375	64	54	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2652	240
+TCGA-DD-A39Y-01A	TCGA-DD-A39Y	67	G3	stage i	243	85	2002	not hispanic or latino	male	asian	Dead	1935	27.44059917	176	85	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3530	220
+TCGA-CC-5261-01A	TCGA-CC-5261	44	G2	stage ii		58	2010	not hispanic or latino	male	asian	Dead	1966	18.93877551	175	58	ILSBio	Liver hepatocellular carcinoma	110	450
+TCGA-2Y-A9H5-01A	TCGA-2Y-A9H5	59	G3	stage i	204	69	2010	not hispanic or latino	female	white	Dead	1951	27.99302203	157	69	Moffitt Cancer Center	Liver hepatocellular carcinoma	1101	30
+TCGA-G3-A25U-01A	TCGA-G3-A25U	63	G3	stage i	113	47	2007	not hispanic or latino	female	asian	Alive	1944	20.07774787	153	47	Alberta Health Services	Liver hepatocellular carcinoma	1281	350
+TCGA-2Y-A9GU-01A	TCGA-2Y-A9GU	55	G2	stage i	281	78	2009	not hispanic or latino	female	white	Alive	1954	32.88918873	154	78	Moffitt Cancer Center	Liver hepatocellular carcinoma	1752	120
+TCGA-G3-AAV5-01A	TCGA-G3-AAV5	67	G2	stage ii	326	88	2013	not hispanic or latino	male	white	Alive	1946	32.32323232	165	88	Alberta Health Services	Liver hepatocellular carcinoma	62	450
+TCGA-DD-AAE7-01A	TCGA-DD-AAE7	72	G2	stage i	188	74	2012	not hispanic or latino	male	asian	Alive	1940	25.01352082	172	74	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	410	20
+TCGA-DD-AACB-01A	TCGA-DD-AACB	74	G3	stage i	179	72	2008	not hispanic or latino	female	asian	Alive	1934	29.58579882	156	72	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2045	410
+TCGA-ZS-A9CF-01A	TCGA-ZS-A9CF	64	G2	stage ii	259		2008	not hispanic or latino	male	white	Alive	1944				Tayside Tissue Bank	Liver hepatocellular carcinoma	2217	30
+TCGA-BW-A5NO-01A	TCGA-BW-A5NO	50	G2	stage iiia			2010	not hispanic or latino	male	black or african american	Alive	1960				St. Joseph's Medical Center-(MD)	Liver hepatocellular carcinoma	840	110
+TCGA-2Y-A9GV-01A	TCGA-2Y-A9GV	54	G1	stage i	370	85	2007	not hispanic or latino	female	white	Dead	1953	30.47796622	167	85	Moffitt Cancer Center	Liver hepatocellular carcinoma	2431	120
+TCGA-G3-AAV4-01A	TCGA-G3-AAV4	83	G1	stage i	79	56	2012	not hispanic or latino	female	white	Dead	1929	23.01117686	156	56	Alberta Health Services	Liver hepatocellular carcinoma	423	470
+TCGA-DD-A1EG-01A	TCGA-DD-A1EG	76	G3	stage i	146	82	2007	not hispanic or latino	male	white	Dead	1931	29.05328798	168	82	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1386	20
+TCGA-DD-AACO-01A	TCGA-DD-AACO	40	G3	stage i	88	43	2009	not hispanic or latino	male	asian	Alive	1969	15.98750744	164	43	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1637	110
+TCGA-RC-A6M4-01A	TCGA-RC-A6M4	74	G2	stage iiia		87	2010	not hispanic or latino	female	white	Alive	1936			87	University of Utah	Liver hepatocellular carcinoma	1077	70
+TCGA-DD-AACA-01A	TCGA-DD-AACA	65	G3	stage i	136	70	2008	not hispanic or latino	male	asian	Alive	1943	25.71166208	165	70	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2057	120
+TCGA-DD-A39X-01A	TCGA-DD-A39X	78	G2	stage i	180	48	1998	not hispanic or latino	female	white	Dead	1920	20.77562327	152	48	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	4705	120
+TCGA-2Y-A9H3-01A	TCGA-2Y-A9H3	45	G1	stage ii	245	105	2010	hispanic or latino	male	white	Alive	1965	32.77051278	179	105	Moffitt Cancer Center	Liver hepatocellular carcinoma	1309	90
+TCGA-KR-A7K7-01A	TCGA-KR-A7K7	61	G1	stage ii	130	125	2012	not reported	female	white	Alive	1951	44.28854875	168	125	University Of Michigan	Liver hepatocellular carcinoma	461	140
+TCGA-CC-A3MC-01A	TCGA-CC-A3MC	54	G2	stage iiia		52	2011	not hispanic or latino	male	asian	Alive	1957	19.57168128	163	52	ILSBio	Liver hepatocellular carcinoma	268	400
+TCGA-DD-A1E9-01A	TCGA-DD-A1E9	70	G2	stage i	110	101	2002	not hispanic or latino	male	white	Dead	1932	34.14007572	172	101	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3234	100
+TCGA-DD-AADE-01A	TCGA-DD-AADE	50	G4	stage i	148	63	2011	not hispanic or latino	male	asian	Alive	1961	22.86253448	166	63	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	930	80
+TCGA-DD-A1ED-01A	TCGA-DD-A1ED	68	G1	stage i	219	85	2006	not hispanic or latino	male	white	Alive	1938	30.11621315	168	85	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1525	60
+TCGA-RC-A7SF-01A	TCGA-RC-A7SF	66	G2	stage i	209000	76	2012	not hispanic or latino	male	asian	Alive	1946	26.29757785	170	76	University of Utah	Liver hepatocellular carcinoma	285	20
+TCGA-FV-A3I0-01A	TCGA-FV-A3I0	76	G2	stage ii			2011	not hispanic or latino	female	white	Alive	1935				International Genomics Consortium	Liver hepatocellular carcinoma	70	190
+TCGA-BC-A10S-01A	TCGA-BC-A10S	81	G1	not reported	217000	74	1999	not hispanic or latino	male	white	Dead	1918			74	UNC	Liver hepatocellular carcinoma	4284	550
+TCGA-DD-AACG-01A	TCGA-DD-AACG	52	G4	stage ii	196	65	2008	not hispanic or latino	male	asian	Dead	1956	23.03004535	168	65	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1931	280
+TCGA-G3-A7M5-01A	TCGA-G3-A7M5	76	G2	stage i	181	68	2013	not hispanic or latino	male	asian	Alive	1937	25.2825699	164	68	Alberta Health Services	Liver hepatocellular carcinoma	217	720
+TCGA-BC-A10Q-01A	TCGA-BC-A10Q	72		not reported	287000		1998	not hispanic or latino	female	white	Dead	1926				UNC	Liver hepatocellular carcinoma	4437	340
+TCGA-DD-AAVX-01A	TCGA-DD-AAVX	38	G2	stage ii	186	65	2008	not hispanic or latino	male	asian	Alive	1970	20.51508648	178	65	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2039	50
+TCGA-DD-A4NI-01A	TCGA-DD-A4NI	67	G2	stage ii	187	99	2011	not hispanic or latino	male	white	Alive	1944	33.46403461	172	99	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	357	130
+TCGA-UB-A7MB-01A	TCGA-UB-A7MB	24	G3	stage ii	583	62	2013	not hispanic or latino	male	white	Alive	1989	19.13580247	180	62	UCSF	Liver hepatocellular carcinoma	176	140
+TCGA-DD-AACV-01A	TCGA-DD-AACV	53	G3	stage i	164	70	2010	not hispanic or latino	male	asian	Alive	1957	24.50894577	169	70	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1231	40
+TCGA-UB-A7MD-01A	TCGA-UB-A7MD	67	G3	stage i	201	57	2013	not hispanic or latino	male	black or african american	Dead	1946	18.6122449	175	57	UCSF	Liver hepatocellular carcinoma	128	140
+TCGA-EP-A3JL-01A	TCGA-EP-A3JL	76	G2	stage i	149	73	2011	not hispanic or latino	male	white	Alive	1935	25.86451247	168	73	Christiana Healthcare	Liver hepatocellular carcinoma	22	570
+TCGA-DD-AACT-01A	TCGA-DD-AACT	69	G2	stage i	213	62	2010	not hispanic or latino	female	asian	Alive	1941	24.8357635	158	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1317	60
+TCGA-CC-A5UC-01A	TCGA-CC-A5UC	63	G3	stage iiia		57	2012	not hispanic or latino	male	asian	Dead	1949	20.93663912	165	57	ILSBio	Liver hepatocellular carcinoma	99	210
+TCGA-ED-A66X-01A	TCGA-ED-A66X	35	G3	stage iiia	268	61	2013	not hispanic or latino	male	asian	Alive	1978	21.10726644	170	61	Asterand	Liver hepatocellular carcinoma	89	2190
+TCGA-RC-A6M5-01A	TCGA-RC-A6M5	20	G2	stage iva	317000		2012	not reported	female	white	Alive	1992				University of Utah	Liver hepatocellular carcinoma	484	50
+TCGA-DD-AAED-01A	TCGA-DD-AAED	51	G3	stage i	211	69	2012	not hispanic or latino	male	asian	Alive	1961	25.03991871	166	69	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	489	60
+TCGA-DD-A115-01A	TCGA-DD-A115	53	G2	stage iiia	337	79	2002	not reported	male	white	Dead	1949	27.99036281	168	79	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3198	230
+TCGA-2Y-A9H1-01A	TCGA-2Y-A9H1	58	G2	stage i	213	89	2010	not hispanic or latino	male	white	Dead	1952	30.43671557	171	89	Moffitt Cancer Center	Liver hepatocellular carcinoma	1445	110
+TCGA-CC-A9FV-01A	TCGA-CC-A9FV	57	G2	stage iiia		59	2013	not hispanic or latino	male	asian	Alive	1956	21.67125803	165	59	ILSBio	Liver hepatocellular carcinoma	184	420
+TCGA-EP-A2KA-01A	TCGA-EP-A2KA	52	G3	stage iiia	435		2011	not hispanic or latino	female	white	Dead	1959		178		Christiana Healthcare	Liver hepatocellular carcinoma	106	400
+TCGA-5R-AA1D-01A	TCGA-5R-AA1D	17	G3	stage iiia	333000	59	2013	not hispanic or latino	female	white	Alive	1996	22.76146754	161	59	Proteogenex, Inc	Liver hepatocellular carcinoma	58	750
+TCGA-MI-A75C-01A	TCGA-MI-A75C	64	G3	stage i	243	84	2012	not hispanic or latino	male	white	Alive	1948	27.42857143	175	84	BLN - Baylor	Liver hepatocellular carcinoma	573	40
+TCGA-BC-A10R-01A	TCGA-BC-A10R	66	G2	not reported	209000		1999	not hispanic or latino	female	white	Dead	1933				UNC	Liver hepatocellular carcinoma	4316	180
+TCGA-K7-AAU7-01A	TCGA-K7-AAU7	61	G2	stage ii	87		2013	not hispanic or latino	male	white	Alive	1952				ABS - Lahey Clinic	Liver hepatocellular carcinoma	9	160
+TCGA-DD-A113-01A	TCGA-DD-A113	55	G3	stage ii	365	56	2006	not hispanic or latino	female	white	Alive	1951	23.61275089	154	56	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1650	110
+TCGA-DD-AAEB-01A	TCGA-DD-AAEB	60	G2	stage i	270	75	2012	not hispanic or latino	male	asian	Alive	1952	28.9340689	161	75	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	468	70
+TCGA-BC-A10U-01A	TCGA-BC-A10U	69	G2	not reported	204000		2000	not hispanic or latino	male	white	Dead	1931				UNC	Liver hepatocellular carcinoma	3645	510
+TCGA-CC-A8HV-01A	TCGA-CC-A8HV	51	G2	stage ii		51	2013	not hispanic or latino	female	asian	Dead	1962	20.17325264	159	51	ILSBio	Liver hepatocellular carcinoma	140	230
+TCGA-DD-AAVR-01A	TCGA-DD-AAVR	44	G2	stage i	174	69	2007	not hispanic or latino	male	asian	Alive	1963	25.34435262	165	69	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2355	40
+TCGA-DD-AAD3-01A	TCGA-DD-AAD3	43	G2	stage i	181	77	2011	not hispanic or latino	male	asian	Alive	1968	24.30248706	178	77	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1072	20
+TCGA-DD-AACP-01A	TCGA-DD-AACP	64	G3	stage i	151	62	2009	not hispanic or latino	male	asian	Alive	1945	25.80645161	155	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1625	20
+TCGA-CC-5264-01A	TCGA-CC-5264	71	G2	stage iiia		52	2010	not hispanic or latino	male	asian	Dead	1939	20.3125	160	52	ILSBio	Liver hepatocellular carcinoma	84	550
+TCGA-O8-A75V-01A	TCGA-O8-A75V	54	G2	stage i	211	92	2013	hispanic or latino	male	not reported	Alive	1959	28.39506173	180	92	Saint Mary's Health Care	Liver hepatocellular carcinoma	142	270
+TCGA-MI-A75I-01A	TCGA-MI-A75I	61	G1	not reported	153	100	2011	not hispanic or latino	male	black or african american	Alive	1950	28.29334541	188	100	BLN - Baylor	Liver hepatocellular carcinoma	665	50
+TCGA-G3-A25V-01A	TCGA-G3-A25V	68	G2	stage i	139	90	2010	not hispanic or latino	male	white	Alive	1942	25.73708141	187	90	Alberta Health Services	Liver hepatocellular carcinoma	223	100
+TCGA-DD-AAW0-01A	TCGA-DD-AAW0	54	G2	stage i	183	75	2009	not hispanic or latino	male	asian	Alive	1955	25.35154137	172	75	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1737	70
+TCGA-G3-A25T-01A	TCGA-G3-A25T	45	G2	stage iiia	306	64	2007	not hispanic or latino	female	white	Alive	1962	22.94811574	167	64	Alberta Health Services	Liver hepatocellular carcinoma	1224	70
+TCGA-WX-AA47-01A	TCGA-WX-AA47	33	G2	stage iiia	423	63	2012	not hispanic or latino	female	white	Dead	1979	22.32142857	168	63	Yale University	Liver hepatocellular carcinoma	626	60
+TCGA-ES-A2HT-01A	TCGA-ES-A2HT	54	G2	stage i	135	80	2007	not hispanic or latino	male	black or african american	Dead	1953	26.42356982	174	80	University of Florida	Liver hepatocellular carcinoma	1392	340
+TCGA-G3-AAV0-01A	TCGA-G3-AAV0	58	G2	stage i	193	58	2013	not hispanic or latino	male	asian	Alive	1955	23.23345618	158	58	Alberta Health Services	Liver hepatocellular carcinoma	163	350
+TCGA-DD-AACN-01A	TCGA-DD-AACN	32	G3	stage i	185	70	2009	not hispanic or latino	male	asian	Alive	1977	23.93898977	171	70	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1644	40
+TCGA-DD-AAE8-01A	TCGA-DD-AAE8	45	G3	stage i	125	78	2012	not hispanic or latino	male	asian	Alive	1967	26.98961938	170	78	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	417	20
+TCGA-CC-A7IH-01A	TCGA-CC-A7IH	58	G1	stage iiia		56	2013	not hispanic or latino	male	asian	Alive	1955	18.28571429	175	56	ILSBio	Liver hepatocellular carcinoma	181	190
+TCGA-FV-A4ZQ-01A	TCGA-FV-A4ZQ	52	G2	stage i			2012	not hispanic or latino	male	white	Alive	1960				International Genomics Consortium	Liver hepatocellular carcinoma	224	160
+TCGA-DD-A3A1-01A	TCGA-DD-A3A1	65	G2	stage iiia	178	78	2001	not reported	male	not reported	Dead	1936	22.79035793	185	78	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3753	240
+TCGA-DD-A1EC-01A	TCGA-DD-A1EC	20	G3	stage i	556	50	2004	not hispanic or latino	female	white	Alive	1984	20.28479857	157	50	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2254	110
+TCGA-ZP-A9CV-01A	TCGA-ZP-A9CV	59	G1	not reported	114000	59	2011	not hispanic or latino	male	white	Dead	1952	19.71332153	173	59	Medical College of Wisconsin	Liver hepatocellular carcinoma	955	40
+TCGA-DD-AADQ-01A	TCGA-DD-AADQ	59	G3	stage ii	163	64	2013	not hispanic or latino	male	asian	Alive	1954	23.50780533	165	64	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	169	70
+TCGA-G3-A25W-01A	TCGA-G3-A25W	79	G2	stage iiib	308	48	2010	not hispanic or latino	female	white	Alive	1931	19.47340663	157	48	Alberta Health Services	Liver hepatocellular carcinoma	419	260
+TCGA-DD-A73E-01A	TCGA-DD-A73E	66	G1	stage i	190	108	2012	not hispanic or latino	male	white	Alive	1946	36.50621958	172	108	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	336	170
+TCGA-DD-A3A5-01A	TCGA-DD-A3A5	66	G2	stage iii	312	58	1996	not hispanic or latino	female	white	Dead	1930	20.06920415	170	58	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	5538	250
+TCGA-4R-AA8I-01A	TCGA-4R-AA8I	66	G2	stage ii	96	103	2013	not hispanic or latino	male	white	Dead	1947	35.22451353	171	103	Duke University	Liver hepatocellular carcinoma	43	210
+TCGA-DD-AACF-01A	TCGA-DD-AACF	68	G3	stage i	99	60	2008	not hispanic or latino	male	asian	Dead	1940	21.2585034	168	60	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1952	210
+TCGA-DD-AAVW-01A	TCGA-DD-AAVW	35	G2	stage i	212	62	2008	not hispanic or latino	male	asian	Alive	1973	23.62444749	162	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2156	20
+TCGA-DD-AADF-01A	TCGA-DD-AADF	64	G4	stage i	174	55	2011	not hispanic or latino	female	asian	Dead	1947	26.15933413	145	55	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	865	30
+TCGA-G3-A25Y-01A	TCGA-G3-A25Y	52	G3	stage i	166	57	2006	not hispanic or latino	female	asian	Dead	1954	22.83287935	158	57	Alberta Health Services	Liver hepatocellular carcinoma	1595	440
+TCGA-2Y-A9H7-01A	TCGA-2Y-A9H7	81	G2	stage i	165	104	2011	not hispanic or latino	female	white	Alive	1930	42.19238103	157	104	Moffitt Cancer Center	Liver hepatocellular carcinoma	846	140
+TCGA-CC-A7IE-01A	TCGA-CC-A7IE	57	G2	stage iiia		62	2012	not hispanic or latino	male	asian	Dead	1955	20.9572742	172	62	ILSBio	Liver hepatocellular carcinoma	243	290
+TCGA-NI-A4U2-01A	TCGA-NI-A4U2	71	G1	stage iiia	299	82	2005	not hispanic or latino	male	white	Dead	1934	28.04281659	171	82	Roswell Park	Liver hepatocellular carcinoma	2802	320
+TCGA-WX-AA44-01A	TCGA-WX-AA44	64	G3	stage i	215	61	2011	hispanic or latino	female	white	Alive	1947	26.40235457	152	61	Yale University	Liver hepatocellular carcinoma	924	90
+TCGA-XR-A8TF-01A	TCGA-XR-A8TF	74	G1	stage i	194000	57	2012	hispanic or latino	male	white	Dead	1938	20.68515024	166	57	University of Sao Paulo	Liver hepatocellular carcinoma	481	250
+TCGA-G3-A7M6-01A	TCGA-G3-A7M6	60	G3	stage i	273	77	2013	not hispanic or latino	female	white	Alive	1953	30.84441596	158	77	Alberta Health Services	Liver hepatocellular carcinoma	212	680
+TCGA-DD-A73A-01A	TCGA-DD-A73A	71	G2	stage i	89	102	2012	not hispanic or latino	male	white	Alive	1941	33.69005153	174	102	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	287	60
+TCGA-WX-AA46-01A	TCGA-WX-AA46	61	G1	stage ii	205	75	2012	not hispanic or latino	male	white	Alive	1951	30.81854043	156	75	Yale University	Liver hepatocellular carcinoma	456	80
+TCGA-UB-AA0V-01A	TCGA-UB-AA0V	69	G1	stage i	273	57	2013	not hispanic or latino	female	white	Alive	1944	18.6122449	175	57	UCSF	Liver hepatocellular carcinoma	7	110
+TCGA-DD-AACD-01A	TCGA-DD-AACD	48	G4	stage i	268	66	2008	not hispanic or latino	male	asian	Dead	1960	19.92512982	182	66	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2015	230
+TCGA-G3-A5SK-01A	TCGA-G3-A5SK	58	G1	stage i	106	67	2012	not hispanic or latino	male	white	Alive	1954	23.45856238	169	67	Alberta Health Services	Liver hepatocellular carcinoma	251	650
+TCGA-DD-AAE2-01A	TCGA-DD-AAE2	51	G3	stage i	238	82	2013	not hispanic or latino	male	asian	Alive	1962	27.08415907	174	82	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	337	20
+TCGA-DD-A4NQ-01A	TCGA-DD-A4NQ	60	G3	stage ii	283	75	2007	hispanic or latino	male	white	Dead	1947	29.666548	159	75	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2030	120
+TCGA-2Y-A9H4-01A	TCGA-2Y-A9H4	68	G2	stage i	223	61	2010	not hispanic or latino	male	black or african american	Alive	1942	21.87242282	167	61	Moffitt Cancer Center	Liver hepatocellular carcinoma	1210	100
+TCGA-MI-A75H-01A	TCGA-MI-A75H	77		not reported	138	84	2012	not hispanic or latino	male	white	Alive	1935	28.06642387	173	84	BLN - Baylor	Liver hepatocellular carcinoma	287	30
+TCGA-DD-A1EJ-01A	TCGA-DD-A1EJ	71	G2	stage iiic	608	64	2008	not hispanic or latino	female	white	Dead	1937	26.98600101	154	64	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	909	290
+TCGA-2Y-A9GS-01A	TCGA-2Y-A9GS	58	G2	not reported	168	92	2006	hispanic or latino	male	white	Dead	1948	35.05563176	162	92	Moffitt Cancer Center	Liver hepatocellular carcinoma	2558	80
+TCGA-DD-A4NP-01A	TCGA-DD-A4NP	32	G3	stage i	348	79	2005	not hispanic or latino	male	white	Alive	1973	25.21625331	177	79	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2736	160
+TCGA-GJ-A9DB-01A	TCGA-GJ-A9DB	68	G2	stage i	144	96	2013	not hispanic or latino	male	white	Dead	1945	27.45288684	187	96	ABS - IUPUI	Liver hepatocellular carcinoma	132	540
+TCGA-BC-A8YO-01A	TCGA-BC-A8YO	66	G3	stage iiic	441000	74	2013	not hispanic or latino	female	white	Alive	1947	25.60553633	170	74	UNC	Liver hepatocellular carcinoma	141	680
+TCGA-2Y-A9GX-01A	TCGA-2Y-A9GX	68	G2	stage i	155	104	2007	not hispanic or latino	male	white	Alive	1939	33.95918367	175	104	Moffitt Cancer Center	Liver hepatocellular carcinoma	2365	90
+TCGA-G3-A7M7-01A	TCGA-G3-A7M7	65	G1	stage i	145	77	2013	not hispanic or latino	male	white	Alive	1948	23.50355606	181	77	Alberta Health Services	Liver hepatocellular carcinoma	112	750
+TCGA-2Y-A9GW-01A	TCGA-2Y-A9GW	64	G2	stage i	175	139	2007	not hispanic or latino	male	white	Dead	1943	41.96353097	182	139	Moffitt Cancer Center	Liver hepatocellular carcinoma	2375	80
+TCGA-FV-A496-01A	TCGA-FV-A496	84	G2	stage i	167	54	2012	not hispanic or latino	female	white	Alive	1928	20.57613169	162	54	International Genomics Consortium	Liver hepatocellular carcinoma	51	70
+TCGA-BC-A3KG-01A	TCGA-BC-A3KG	68	G3	stage ii	499000	64	2011	not hispanic or latino	female	white	Alive	1943	25.31545429	159	64	UNC	Liver hepatocellular carcinoma	140	790
+TCGA-MI-A75E-01A	TCGA-MI-A75E	61	G2	stage iiic	158	103	2013	not hispanic or latino	male	white	Alive	1952	33.63265306	175	103	BLN - Baylor	Liver hepatocellular carcinoma	157	80
+TCGA-DD-AAEI-01A	TCGA-DD-AAEI	72	G2	stage i	161	79	2010	not hispanic or latino	male	asian	Alive	1938	28.66889244	166	79	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1238	10
+TCGA-DD-AAVU-01A	TCGA-DD-AAVU	46	G2	stage ii	166	88	2008	not hispanic or latino	male	asian	Alive	1962	34.375	160	88	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1938	40
+TCGA-ZP-A9D0-01A	TCGA-ZP-A9D0	67	G1	not reported	185000	78	2011	not hispanic or latino	female	black or african american	Alive	1944	28.65013774	165	78	Medical College of Wisconsin	Liver hepatocellular carcinoma	723	100
+TCGA-DD-AADD-01A	TCGA-DD-AADD	51	G4	stage i	299	68	2011	not hispanic or latino	male	asian	Alive	1960	24.09297052	168	68	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	931	30
+TCGA-WJ-A86L-01A	TCGA-WJ-A86L	68	G2	stage i	257000	56	2013	not hispanic or latino	female	white	Alive	1945	22.15102251	159	56	Greenville Health System	Liver hepatocellular carcinoma	95	270
+TCGA-DD-A1EE-01A	TCGA-DD-A1EE	73	G3	stage iiia	208	77	2006	not hispanic or latino	male	white	Dead	1933	25.14285714	175	77	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1521	110
+TCGA-DD-A4NN-01A	TCGA-DD-A4NN	56	G3	stage i	307	59	2004	not hispanic or latino	female	white	Dead	1948	22.20633069	163	59	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3053	240
+TCGA-DD-A1EF-01A	TCGA-DD-A1EF	57	G3	stage i	337	81	2007	not hispanic or latino	female	white	Dead	1950	30.11600238	164	81	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1382	190
+TCGA-G3-AAUZ-01A	TCGA-G3-AAUZ	48	G2	stage i	214	77	2013	hispanic or latino	male	not reported	Alive	1965	30.078125	160	77	Alberta Health Services	Liver hepatocellular carcinoma	168	210
+TCGA-DD-AAW1-01A	TCGA-DD-AAW1	55	G2	stage iiia	126	60	2009	not hispanic or latino	male	asian	Alive	1954	21.51385851	167	60	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1703	40
+TCGA-DD-AADV-01A	TCGA-DD-AADV	50	G3	stage i	187	64	2013	not hispanic or latino	male	asian	Alive	1963	20.66115702	176	64	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	286	20
+TCGA-G3-A7M8-01A	TCGA-G3-A7M8	31	G1	stage i	136		2013	not hispanic or latino	male	asian	Alive	1982				Alberta Health Services	Liver hepatocellular carcinoma	97	180
+TCGA-ZS-A9CE-01A	TCGA-ZS-A9CE	79	G1	stage ii	310		2011	not hispanic or latino	female	white	Alive	1932				Tayside Tissue Bank	Liver hepatocellular carcinoma	967	10
+TCGA-CC-5263-01A	TCGA-CC-5263	35	G1	stage iiia		59	2010	not hispanic or latino	male	asian	Dead	1975	22.20633069	163	59	ILSBio	Liver hepatocellular carcinoma	91	900
+TCGA-DD-AADC-01A	TCGA-DD-AADC	53	G3	stage i	212	81	2011	not hispanic or latino	male	asian	Dead	1958	26.14927686	176	81	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	945	40
+TCGA-DD-AACJ-01A	TCGA-DD-AACJ	75	G2	stage ii	213	73	2008	not hispanic or latino	male	asian	Alive	1933	28.87544005	159	73	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1835	380
+TCGA-DD-AADK-01A	TCGA-DD-AADK	68	G3	stage ii	197	51	2011	not hispanic or latino	female	asian	Alive	1943	22.66666667	150	51	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	763	50
+TCGA-XR-A8TE-01A	TCGA-XR-A8TE	16	G1	stage iiia	206000	43	2012	hispanic or latino	male	white	Alive	1996	17.44492677	157	43	University of Sao Paulo	Liver hepatocellular carcinoma	487	90
+TCGA-DD-AADP-01A	TCGA-DD-AADP	45	G3	stage i	102	67	2013	not hispanic or latino	male	asian	Alive	1968	24.02380867	167	67	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	161	20
+TCGA-HP-A5MZ-01A	TCGA-HP-A5MZ	78	G2	stage i	231	82		not reported	male	not reported	Dead		23.95909423	185	82	Ontario Institute for Cancer Research (OICR)	Liver hepatocellular carcinoma		160
+TCGA-DD-A4NE-01A	TCGA-DD-A4NE	75	G3	stage iiia	348	79	2011	hispanic or latino	female	white	Dead	1936	27.33564014	170	79	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	631	200
+TCGA-DD-AADI-01A	TCGA-DD-AADI	43	G3	stage i	141	64	2011	not hispanic or latino	female	asian	Alive	1968	23.50780533	165	64	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	819	10
+TCGA-ED-A4XI-01A	TCGA-ED-A4XI	58	G3	stage ii	276	55	2012	not hispanic or latino	male	asian	Alive	1954	19.03114187	170	55	Asterand	Liver hepatocellular carcinoma	70	2000
+TCGA-CC-A7II-01A	TCGA-CC-A7II	54	G3	stage iiia		52	2013	not hispanic or latino	male	asian	Alive	1959	18.42403628	168	52	ILSBio	Liver hepatocellular carcinoma	169	400
+TCGA-ZP-A9CZ-01A	TCGA-ZP-A9CZ	72	G1	not reported		73	2011	not hispanic or latino	male	asian	Alive	1939	26.17519452	167	73	Medical College of Wisconsin	Liver hepatocellular carcinoma	797	50
+TCGA-BC-A10T-01A	TCGA-BC-A10T	76	G1	not reported	450000	86	2000	not hispanic or latino	male	white	Dead	1924			86	UNC	Liver hepatocellular carcinoma	3660	1000
+TCGA-G3-AAV3-01A	TCGA-G3-AAV3	58	G2	stage ii	113	85	2013	not hispanic or latino	female	white	Alive	1955	30.11621315	168	85	Alberta Health Services	Liver hepatocellular carcinoma	98	150
+TCGA-LG-A9QC-01A	TCGA-LG-A9QC	48	G2	stage i	275	103	2013	not hispanic or latino	male	white	Alive	1965	29.14214577	188	103	Hartford Hospital	Liver hepatocellular carcinoma	62	1080
+TCGA-BD-A3EP-01A	TCGA-BD-A3EP	75	G2	stage i	333	71	2010	not hispanic or latino	female	black or african american	Alive	1935	25.15589569	168	71	University of Pittsburgh	Liver hepatocellular carcinoma	398	140
+TCGA-G3-AAV1-01A	TCGA-G3-AAV1	51	G3	stage iiic	115	99	2013	not hispanic or latino	male	asian	Dead	1962	30.21885779	181	99	Alberta Health Services	Liver hepatocellular carcinoma	146	470
+TCGA-K7-A5RF-01A	TCGA-K7-A5RF	64	G1	stage i		75	2012	not hispanic or latino	male	white	Alive	1948	23.93948099	177	75	ABS - Lahey Clinic	Liver hepatocellular carcinoma	102	1350
+TCGA-DD-A3A3-01A	TCGA-DD-A3A3	45	G2	stage i	276	71	1999	not hispanic or latino	male	asian	Dead	1954	25.4580659	167	71	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	4397	250
+TCGA-DD-A118-01A	TCGA-DD-A118	77	G2	stage ii	381	75	2003	not hispanic or latino	female	white	Alive	1926	26.25958475	169	75	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2854	30
+TCGA-ED-A5KG-01A	TCGA-ED-A5KG	60	G2	stage ii	147	61	2012	not hispanic or latino	female	asian	Alive	1952	23.828125	160	61	Asterand	Liver hepatocellular carcinoma	112	1810
+TCGA-CC-A9FU-01A	TCGA-CC-A9FU	52	G2	stage iiia		48	2013	not hispanic or latino	female	asian	Alive	1961	20.504934	153	48	ILSBio	Liver hepatocellular carcinoma	205	220
+TCGA-DD-AADY-01A	TCGA-DD-AADY	55	G2	stage i	159	55	2013	not hispanic or latino	female	asian	Alive	1958	21.21831719	161	55	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	308	20
+TCGA-DD-AAEA-01A	TCGA-DD-AAEA	65	G3	stage i	255	66	2012	not hispanic or latino	male	asian	Alive	1947	24.84098009	163	66	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	461	50
+TCGA-DD-AAW2-01A	TCGA-DD-AAW2	69	G2	stage i	164	50	2009	not hispanic or latino	male	asian	Alive	1940	20.54569362	156	50	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1575	70
+TCGA-2Y-A9GZ-01A	TCGA-2Y-A9GZ	82	G2	stage ii	318	51	2007	not hispanic or latino	female	white	Dead	1925	21.78649237	153	51	Moffitt Cancer Center	Liver hepatocellular carcinoma	2337	80
+TCGA-CC-5259-01A	TCGA-CC-5259	60	G2	stage iiic		49	2010	not hispanic or latino	female	asian	Alive	1950	20.93212012	153	49	ILSBio	Liver hepatocellular carcinoma	106	400
+TCGA-DD-A4NV-01A	TCGA-DD-A4NV	61	G1	stage iiia	240	129	2007	not hispanic or latino	male	white	Alive	1946	40.2609157	179	129	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1928	80
+TCGA-DD-AADN-01A	TCGA-DD-AADN	59	G4	stage i	176	62	2012	not hispanic or latino	male	asian	Alive	1953	24.21875	160	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	602	70
+TCGA-RC-A7SK-01A	TCGA-RC-A7SK	59	G3	stage i	138000	60	2013	not hispanic or latino	male	asian	Alive	1954	21.0076678	169	60	University of Utah	Liver hepatocellular carcinoma	232	40
+TCGA-G3-A3CK-01A	TCGA-G3-A3CK	61	G2	stage i	143	67	2011	not hispanic or latino	male	asian	Alive	1950	23.183391	170	67	Alberta Health Services	Liver hepatocellular carcinoma	132	520
+TCGA-DD-A73F-01A	TCGA-DD-A73F	77	G1	stage i	243	69	2010	not hispanic or latino	female	white	Alive	1933	25.6543724	164	69	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	975	250
+TCGA-DD-AACU-01A	TCGA-DD-AACU	59	G3	stage i	166	67	2010	not hispanic or latino	male	asian	Alive	1951	24.31412397	166	67	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1272	40
+TCGA-CC-5262-01A	TCGA-CC-5262	67	G1	stage iiic		62	2010	not hispanic or latino	male	asian	Dead	1943	21.4532872	170	62	ILSBio	Liver hepatocellular carcinoma	97	800
+TCGA-2Y-A9H0-01A	TCGA-2Y-A9H0	49	G1	stage iiia	207	89	2004	hispanic or latino	male	white	Alive	1955	27.4691358	180	89	Moffitt Cancer Center	Liver hepatocellular carcinoma	3538	130
+TCGA-2Y-A9HA-01A	TCGA-2Y-A9HA	70	G2	stage ii	153	69	2012	not hispanic or latino	male	white	Dead	1942	24.15881797	169	69	Moffitt Cancer Center	Liver hepatocellular carcinoma	713	90
+TCGA-G3-AAV6-01A	TCGA-G3-AAV6	53	G3	stage iiia	303	78	2013	not hispanic or latino	female	white	Dead	1960	28.65013774	165	78	Alberta Health Services	Liver hepatocellular carcinoma	24	360
+TCGA-DD-AAE4-01A	TCGA-DD-AAE4	49	G1	stage i	113	62	2013	not hispanic or latino	female	asian	Alive	1964	25.15315023	157	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	343	30
+TCGA-DD-AADB-01A	TCGA-DD-AADB	51	G4	stage i	180	68	2011	not hispanic or latino	male	asian	Alive	1960	24.97704316	165	68	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	946	20
+TCGA-FV-A495-01A	TCGA-FV-A495	51	G2	stage ii	258	70	2012	not hispanic or latino	female	white	Alive	1961	23.66143862	172	70	International Genomics Consortium	Liver hepatocellular carcinoma	56	70
+TCGA-DD-A1EK-01A	TCGA-DD-A1EK	64	G2	stage ivb	387	97	2008	not hispanic or latino	female	white	Dead	1944	38.36873541	159	97	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	819	40
+TCGA-ZP-A9D2-01A	TCGA-ZP-A9D2	51	G2	not reported		74	2012	not hispanic or latino	male	white	Dead	1961	25.01352082	172	74	Medical College of Wisconsin	Liver hepatocellular carcinoma	654	60
+TCGA-DD-AAC8-01A	TCGA-DD-AAC8	72	G3	stage i	177	57	2008	not hispanic or latino	male	asian	Dead	1936	23.42209073	156	57	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2080	570
+TCGA-BC-A216-01A	TCGA-BC-A216	62	G2	stage iiia	211000	151	2008	not reported	female	white	Alive	1946	56.14217728	164	151	UNC	Liver hepatocellular carcinoma	1052	100
+TCGA-BC-A69H-01A	TCGA-BC-A69H	64	G3	stage ii	194000	70	2013	not hispanic or latino	male	white	Alive	1949	23.38868656	173	70	UNC	Liver hepatocellular carcinoma	94	610
+TCGA-DD-AAD0-01A	TCGA-DD-AAD0	73	G2	stage i	86	54	2010	not hispanic or latino	female	asian	Alive	1937	24	150	54	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1134	40
+TCGA-BW-A5NP-01A	TCGA-BW-A5NP	26	G3	stage iv			2010	hispanic or latino	female	white	Alive	1984				St. Joseph's Medical Center-(MD)	Liver hepatocellular carcinoma	1057	290
+TCGA-ED-A82E-01A	TCGA-ED-A82E	60	G2	stage iiia	261	44	2013	not hispanic or latino	female	asian	Alive	1953	19.55555556	150	44	Asterand	Liver hepatocellular carcinoma	78	1320
+TCGA-UB-A7MA-01A	TCGA-UB-A7MA	62	G2	stage ii	600	85	2013	not hispanic or latino	female	white	Alive	1951	31.22130395	165	85	UCSF	Liver hepatocellular carcinoma	109	500
+TCGA-CC-A8HS-01A	TCGA-CC-A8HS	18	G1	stage iiic		62	2013	not hispanic or latino	male	asian	Dead	1995	20.9572742	172	62	ILSBio	Liver hepatocellular carcinoma	223	240
+TCGA-DD-AAD2-01A	TCGA-DD-AAD2	66	G2	stage i	172	52	2010	not hispanic or latino	male	asian	Alive	1944	21.36752137	156	52	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1105	30
+TCGA-DD-AACW-01A	TCGA-DD-AACW	43	G3	stage i	137	65	2010	not hispanic or latino	male	asian	Alive	1967	23.58832922	166	65	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1184	40
+TCGA-G3-A5SM-01A	TCGA-G3-A5SM	58	G3	stage ii	260	106	2012	not hispanic or latino	male	white	Alive	1954	31.30907372	184	106	Alberta Health Services	Liver hepatocellular carcinoma	111	160
+TCGA-G3-A3CH-01A	TCGA-G3-A3CH	53	G2	stage iiia	142	74	2010	not hispanic or latino	male	asian	Alive	1957	23.35563691	178	74	Alberta Health Services	Liver hepatocellular carcinoma	296	120
+TCGA-DD-A4NO-01A	TCGA-DD-A4NO	65	G1	stage i	201	109	2007	not hispanic or latino	male	white	Alive	1942	35.18853306	176	109	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1879	190
+TCGA-BC-A10Z-01A	TCGA-BC-A10Z	62	G2	stage i	260	79	2003	not hispanic or latino	female	white	Dead	1941			79	UNC	Liver hepatocellular carcinoma	2652	160
+TCGA-DD-AACM-01A	TCGA-DD-AACM	48	G3	stage ii	113	68	2009	not hispanic or latino	male	asian	Alive	1961	21.70512943	177	68	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1777	90
+TCGA-5R-AA1C-01A	TCGA-5R-AA1C	57	G2	stage ii	223000	90	2013	not hispanic or latino	male	white	Alive	1956	29.72651605	174	90	Proteogenex, Inc	Liver hepatocellular carcinoma	60	750
+TCGA-GJ-A3OU-01A	TCGA-GJ-A3OU	59	G2	stage i	178	172	2011	not hispanic or latino	male	white	Alive	1952	61.67306106	167	172	ABS - IUPUI	Liver hepatocellular carcinoma	69	130
+TCGA-DD-A39V-01A	TCGA-DD-A39V	77	G3	stage ii	193	79	2000	not hispanic or latino	male	white	Dead	1923	26.0932752	174	79	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	4180	180
+TCGA-DD-A73D-01A	TCGA-DD-A73D	68	G1	stage ii	214	102	2012	not hispanic or latino	female	white	Alive	1944	35.29411765	170	102	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	313	250
+TCGA-DD-AADA-01A	TCGA-DD-AADA	66	G3	stage i	173	59	2011	not hispanic or latino	female	asian	Alive	1945	27.30343838	147	59	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	959	40
+TCGA-DD-A3A9-01A	TCGA-DD-A3A9	64	G2	stage ivb	317	62	2001	not hispanic or latino	female	white	Dead	1937	21.96712018	168	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3584	230
+TCGA-2Y-A9H2-01A	TCGA-2Y-A9H2	64	G3	stage i	386	55	2010	not hispanic or latino	female	white	Alive	1946	17.75568182	176	55	Moffitt Cancer Center	Liver hepatocellular carcinoma	1443	80
+TCGA-ED-A459-01A	TCGA-ED-A459	47	G2	stage ii	200	51	2012	not hispanic or latino	male	asian	Alive	1965	18.28677973	167	51	Asterand	Liver hepatocellular carcinoma	87	1800
+TCGA-ZP-A9D1-01A	TCGA-ZP-A9D1	56	G2	not reported		130	2012	not hispanic or latino	female	white	Alive	1956	44.98269896	170	130	Medical College of Wisconsin	Liver hepatocellular carcinoma	699	70
+TCGA-G3-A25X-01A	TCGA-G3-A25X	73	G3	stage ii	102	65	2007	not hispanic or latino	male	asian	Alive	1934	23.87511478	165	65	Alberta Health Services	Liver hepatocellular carcinoma	1346	160
+TCGA-CC-A5UE-01A	TCGA-CC-A5UE	48	G2	stage iiib		65	2012	not hispanic or latino	male	asian	Dead	1964	21.2244898	175	65	ILSBio	Liver hepatocellular carcinoma	85	300
+TCGA-3K-AAZ8-01A	TCGA-3K-AAZ8	65	G1	stage iiib		84	2013	not hispanic or latino	male	black or african american	Alive	1948	28.39372634	172	84	Boston Medical Center	Liver hepatocellular carcinoma	65	230
+TCGA-BC-A10W-01A	TCGA-BC-A10W	50	G3	not reported	401	71	2002	not hispanic or latino	male	asian	Dead	1952			71	UNC	Liver hepatocellular carcinoma	3100	460
+TCGA-G3-A5SI-01A	TCGA-G3-A5SI	44	G2	stage ii	145	74	2011	not hispanic or latino	male	asian	Dead	1967	23.62028791	177	74	Alberta Health Services	Liver hepatocellular carcinoma	418	660
+TCGA-RC-A7SB-01A	TCGA-RC-A7SB	53	G2	stage ii	196000	61	2012	not hispanic or latino	male	asian	Alive	1959	22.13673973	166	61	University of Utah	Liver hepatocellular carcinoma	343	110
+TCGA-MI-A75G-01A	TCGA-MI-A75G	63	G2	stage ii	160	69	2012	not hispanic or latino	male	white	Alive	1949	21.77755334	178	69	BLN - Baylor	Liver hepatocellular carcinoma	427	80
+TCGA-FV-A3R2-01A	TCGA-FV-A3R2	75		stage i		75	2005	not hispanic or latino	male	white	Dead	1930			75	International Genomics Consortium	Liver hepatocellular carcinoma	2555	120
+TCGA-DD-A1EH-01A	TCGA-DD-A1EH	23	G3	stage iii	212	70	2008	not hispanic or latino	male	white	Alive	1985	21.84700852	179	70	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	933	220
+TCGA-DD-AAE6-01A	TCGA-DD-AAE6	59	G2	stage i	209	46	2012	not hispanic or latino	female	asian	Alive	1953	18.19548277	159	46	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	399	80
+TCGA-DD-AADS-01A	TCGA-DD-AADS	63	G2	stage i	120	53	2013	not hispanic or latino	male	asian	Alive	1950	19.70553242	164	53	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	230	40
+TCGA-BD-A2L6-01A	TCGA-BD-A2L6	69	G2	not reported	222	110	2011	not reported	male	white	Alive	1942	38.9739229	168	110	University of Pittsburgh	Liver hepatocellular carcinoma	148	480
+TCGA-DD-A4NG-01A	TCGA-DD-A4NG	77	G2	stage iiia	220	94	2011	not hispanic or latino	male	white	Dead	1934	34.94943486	164	94	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	629	280
+TCGA-CC-A3MB-01A	TCGA-CC-A3MB	36	G1	stage iiia		58	2011	not hispanic or latino	male	asian	Dead	1975	18.72417355	176	58	ILSBio	Liver hepatocellular carcinoma	205	460
+TCGA-RC-A6M6-01A	TCGA-RC-A6M6	75	G3	stage ii	235000		2011	not hispanic or latino	male	white	Alive	1936				University of Utah	Liver hepatocellular carcinoma	748	110
+TCGA-FV-A3I1-01A	TCGA-FV-A3I1	81	G2	stage ii			2011	not hispanic or latino	female	white	Dead	1930				International Genomics Consortium	Liver hepatocellular carcinoma	76	70
+TCGA-DD-A73B-01A	TCGA-DD-A73B	72	G2	stage i	88	74	2012	hispanic or latino	female	white	Dead	1940	31.20256367	154	74	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	345	150
+TCGA-2Y-A9HB-01A	TCGA-2Y-A9HB	66	G2	stage i	124	74	2012	hispanic or latino	male	not reported	Alive	1946	26.53375883	167	74	Moffitt Cancer Center	Liver hepatocellular carcinoma	497	80
+TCGA-DD-A3A0-01A	TCGA-DD-A3A0	70	G2	stage i	138	88	2001	not hispanic or latino	male	white	Dead	1931	27.77427093	178	88	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3586	220
+TCGA-DD-A4NL-01A	TCGA-DD-A4NL	46	G1	stage i	266	113	2007	not hispanic or latino	male	white	Alive	1961	37.75602259	173	113	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1896	80
+TCGA-KR-A7K8-01A	TCGA-KR-A7K8	57	G1	stage i	103	109	2012	not reported	male	not reported	Alive	1955	37.71626298	170	109	University Of Michigan	Liver hepatocellular carcinoma	435	80
+TCGA-EP-A3RK-01A	TCGA-EP-A3RK	73	G2	stage iiia	234	101	2012	not hispanic or latino	male	white	Alive	1939	31.87728822	178	101	Christiana Healthcare	Liver hepatocellular carcinoma	14	1040
+TCGA-BC-A10Y-01A	TCGA-BC-A10Y	76	G3	not reported	239	77	2002	not hispanic or latino	male	white	Dead	1926	25.14285714	175	77	UNC	Liver hepatocellular carcinoma	2961	340
+TCGA-LG-A6GG-01A	TCGA-LG-A6GG	79	G2	stage ii	93	65	2013	not hispanic or latino	female	white	Alive	1934	26.03749399	158	65	Hartford Hospital	Liver hepatocellular carcinoma	35	1140
+TCGA-KR-A7K0-01A	TCGA-KR-A7K0	65	G1	stage i	102	66	2013	not reported	male	white	Dead	1948	21.79944511	174	66	University Of Michigan	Liver hepatocellular carcinoma	126	90
+TCGA-DD-A4NJ-01A	TCGA-DD-A4NJ	54	G2	stage ii	303	88	2011	not hispanic or latino	female	white	Alive	1957	32.71861987	164	88	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	416	140
+TCGA-DD-AACH-01A	TCGA-DD-AACH	69	G3	stage ii	290	53	2008	not hispanic or latino	male	asian	Dead	1939	20.703125	160	53	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1919	220
+TCGA-BC-A3KF-01A	TCGA-BC-A3KF	66	G2	stage i	171000	58	2011	not reported	female	white	Alive	1945	19.37919743	173	58	UNC	Liver hepatocellular carcinoma	91	340
+TCGA-CC-5260-01A	TCGA-CC-5260	61	G1	stage iiic		46	2010	not hispanic or latino	female	asian	Dead	1949	19.65056175	153	46	ILSBio	Liver hepatocellular carcinoma	105	600
+TCGA-2Y-A9H9-01A	TCGA-2Y-A9H9	70	G2	stage i	203	88	2011	not hispanic or latino	male	white	Alive	1941	27.77427093	178	88	Moffitt Cancer Center	Liver hepatocellular carcinoma	731	120
+TCGA-WQ-AB4B-01A	TCGA-WQ-AB4B	62	G2	stage ii		122	2013	not hispanic or latino	male	white	Alive	1951	39.83673469	175	122	University of Kansas	Liver hepatocellular carcinoma	107	80
+TCGA-DD-AACS-01A	TCGA-DD-AACS	39	G3	stage i	223	80	2009	not hispanic or latino	male	asian	Alive	1970	27.04164413	172	80	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1532	20
+TCGA-DD-A3A8-01A	TCGA-DD-A3A8	75	G2	stage ii	251	99	2001	not hispanic or latino	male	white	Dead	1926	31.60011491	177	99	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3708	290
+TCGA-DD-AACL-01A	TCGA-DD-AACL	66	G3	stage i	99	69	2008	not hispanic or latino	female	asian	Dead	1942	30.66666667	150	69	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1826	280
+TCGA-5C-A9VG-01A	TCGA-5C-A9VG	58	G2	stage ii		73	2013	not hispanic or latino	male	white	Alive	1955	25.25951557	170	73	Cureline	Liver hepatocellular carcinoma	133	170
+TCGA-DD-A39W-01A	TCGA-DD-A39W	29	G2	stage iii		74	1995	not hispanic or latino	female	white	Dead	1966	23.62028791	177	74	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	6014	180
+TCGA-ED-A66Y-01A	TCGA-ED-A66Y	51	G3	stage iiia	289	59	2013	not hispanic or latino	female	asian	Dead	1962	23.046875	160	59	Asterand	Liver hepatocellular carcinoma	75	1670
+TCGA-ED-A8O5-01A	TCGA-ED-A8O5	59	G3	stage iiia	171	63	2013	not hispanic or latino	female	asian	Alive	1954	23.14049587	165	63	Asterand	Liver hepatocellular carcinoma	100	950
+TCGA-DD-A11A-01A	TCGA-DD-A11A	67	G3	stage i	513	67	2004	not hispanic or latino	male	black or african american	Not Reported	1937	27.53122945	156	67	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2184	260
+TCGA-K7-A5RG-01A	TCGA-K7-A5RG	66	G1	stage i		123	2012	not hispanic or latino	male	black or african american	Alive	1946	41.09726352	173	123	ABS - Lahey Clinic	Liver hepatocellular carcinoma	100	630
+TCGA-CC-5258-01A	TCGA-CC-5258	48	G2	stage ii		55	2010	not hispanic or latino	male	asian	Dead	1962			55	ILSBio	Liver hepatocellular carcinoma	147	1700
+TCGA-G3-A5SJ-01A	TCGA-G3-A5SJ	59	G2	stage i	136	87	2012	not hispanic or latino	male	white	Alive	1953	29.75274443	171	87	Alberta Health Services	Liver hepatocellular carcinoma	285	290
+TCGA-2Y-A9H6-01A	TCGA-2Y-A9H6	68	G2	stage i	224	99	2011	not hispanic or latino	female	white	Alive	1943	40.68047337	156	99	Moffitt Cancer Center	Liver hepatocellular carcinoma	982	100
+TCGA-ED-A7PY-01A	TCGA-ED-A7PY	20	G3	stage ii	282	40	2013	not hispanic or latino	female	asian	Alive	1993	16.4365549	156	40	Asterand	Liver hepatocellular carcinoma	83	1380
+TCGA-DD-AADO-01A	TCGA-DD-AADO	55	G3	stage i	180	58	2013	not hispanic or latino	male	asian	Alive	1958	20.54988662	168	58	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	155	20
+TCGA-DD-AADL-01A	TCGA-DD-AADL	58	G4	stage i	204	53	2012	not hispanic or latino	male	asian	Alive	1954	20.96436059	159	53	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	720	20
+TCGA-DD-A3A6-01A	TCGA-DD-A3A6	72	G2	stage ii	4	52	1997	not hispanic or latino	female	white	Dead	1925	16.97959184	175	52	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	5304	150
+TCGA-T1-A6J8-01A	TCGA-T1-A6J8	68	G2	not reported		65	2013	not hispanic or latino	male	white	Alive	1945	18.39067451	188	65	St. Joseph's Hospital Arizona	Liver hepatocellular carcinoma	77	340
+TCGA-CC-A8HT-01A	TCGA-CC-A8HT	74	G2	stage iiia		48	2013	not hispanic or latino	male	asian	Dead	1939	18.98659072	159	48	ILSBio	Liver hepatocellular carcinoma	197	170
+TCGA-K7-A6G5-01A	TCGA-K7-A6G5	66	G2	stage i		80	2013	not hispanic or latino	male	white	Alive	1947	23.6294896	184	80	ABS - Lahey Clinic	Liver hepatocellular carcinoma	31	60
+TCGA-2V-A95S-01A	TCGA-2V-A95S		G3	stage ii	107	78		not hispanic or latino	male	asian	Alive		26.06167931	173	78	University of California San Diego	Liver hepatocellular carcinoma		170
+TCGA-GJ-A6C0-01A	TCGA-GJ-A6C0	75	G2	stage ii		90	2012	not hispanic or latino	female	white	Dead	1937	35.15625	160	90	ABS - IUPUI	Liver hepatocellular carcinoma	310	170
+TCGA-FV-A4ZP-01A	TCGA-FV-A4ZP	78	G2	stage iiia		69	2005	not hispanic or latino	male	white	Dead	1927	24.44727891	168	69	International Genomics Consortium	Liver hepatocellular carcinoma	2519	210
+TCGA-DD-A4NK-01A	TCGA-DD-A4NK	80	G2	stage iiia	372	84	2004	not hispanic or latino	female	white	Dead	1924			84	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3143	130
+TCGA-DD-A4NF-01A	TCGA-DD-A4NF	72	G2	stage i	97	86	2011	not hispanic or latino	male	white	Alive	1939	28.73467206	173	86	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	364	200
+TCGA-UB-A7MF-01A	TCGA-UB-A7MF	56	G2	stage iiia	130	95	2013	not hispanic or latino	male	white	Dead	1957	24.98356345	195	95	UCSF	Liver hepatocellular carcinoma	240	380
+TCGA-ED-A627-01A	TCGA-ED-A627	74	G2	stage i		74	2012	not hispanic or latino	male	white	Alive	1938	23.88946281	176	74	Asterand	Liver hepatocellular carcinoma	157	1140
+TCGA-G3-A25Z-01A	TCGA-G3-A25Z	58	G2	stage i	115	69	2010	not hispanic or latino	male	asian	Alive	1952	23.05456246	173	69	Alberta Health Services	Liver hepatocellular carcinoma	233	300
+TCGA-KR-A7K2-01A	TCGA-KR-A7K2	64	G1	stage i	178	79	2013	not reported	male	white	Alive	1949	28.66889244	166	79	University Of Michigan	Liver hepatocellular carcinoma	85	70
+TCGA-DD-AAE0-01A	TCGA-DD-AAE0	45	G4	stage iiia	226	56	2013	not hispanic or latino	female	asian	Alive	1968	22.15102251	159	56	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	314	40
+TCGA-2Y-A9GT-01A	TCGA-2Y-A9GT	51	G2	stage i	187	122	2006	not hispanic or latino	male	white	Dead	1955	36.83130057	182	122	Moffitt Cancer Center	Liver hepatocellular carcinoma	2603	60
+TCGA-DD-AAVV-01A	TCGA-DD-AAVV	56	G3	stage ii	244	71	2007	not hispanic or latino	male	asian	Alive	1951	28.44095498	158	71	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2513	70
+TCGA-CC-A8HU-01A	TCGA-CC-A8HU	39	G3	stage iiia		42	2013	not hispanic or latino	female	asian	Dead	1974	15.80789642	163	42	ILSBio	Liver hepatocellular carcinoma	141	360
+TCGA-FV-A2QR-01A	TCGA-FV-A2QR	75	G1	stage i			2006	not hispanic or latino	male	white	Dead	1931				International Genomics Consortium	Liver hepatocellular carcinoma	1764	100
+TCGA-DD-A116-01A	TCGA-DD-A116	68	G3	stage iiia	157	73	2002	not hispanic or latino	male	asian	Dead	1934	23.83673469	175	73	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3208	170
+TCGA-DD-A1EL-01A	TCGA-DD-A1EL	23	G3	stage ii	153	54	2009	not hispanic or latino	male	black or african american	Dead	1986	16.30237894	182	54	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	577	130
+TCGA-DD-AADJ-01A	TCGA-DD-AADJ	70	G3	stage i	203	59	2011	not hispanic or latino	female	asian	Alive	1941	24.87771968	154	59	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	804	30
+TCGA-BC-A5W4-01A	TCGA-BC-A5W4	69	G3	stage iiia	102000	106	2012	not hispanic or latino	male	white	Dead	1943	31.6521843	183	106	UNC	Liver hepatocellular carcinoma	224	540
+TCGA-2Y-A9GY-01A	TCGA-2Y-A9GY	64	G3	stage ii	207	92	2007	not hispanic or latino	female	white	Dead	1943	35.49245785	161	92	Moffitt Cancer Center	Liver hepatocellular carcinoma	2340	140
+TCGA-XR-A8TD-01A	TCGA-XR-A8TD	49	G3	stage iiib	334000	69	2012	hispanic or latino	female	white	Alive	1963	28.3530572	156	69	University of Sao Paulo	Liver hepatocellular carcinoma	585	320
+TCGA-BC-A69I-01A	TCGA-BC-A69I	69	G1	stage i	171000	95	2013	not reported	male	white	Alive	1944	29.32098765	180	95	UNC	Liver hepatocellular carcinoma	80	500
+TCGA-MR-A8JO-01A	TCGA-MR-A8JO	34	G3	stage i	162	90	2013	not reported	male	white	Alive	1979	23.42773844	196	90	University of Minnesota	Liver hepatocellular carcinoma	184	350
+TCGA-DD-A11C-01A	TCGA-DD-A11C	69	G3	stage i	391	123	2006	not hispanic or latino	male	white	Alive	1937	35.55324315	186	123	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1703	220
+TCGA-DD-AAEE-01A	TCGA-DD-AAEE	55	G4	stage i	221	58	2012	not hispanic or latino	male	asian	Alive	1957	22.65625	160	58	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	509	40
+TCGA-DD-AAD8-01A	TCGA-DD-AAD8	73	G2	stage i	130	57	2011	not hispanic or latino	female	asian	Alive	1938	24.67105263	152	57	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	981	30
+TCGA-WQ-A9G7-01A	TCGA-WQ-A9G7	71	G3	not reported	266	69	2013	not hispanic or latino	female	white	Alive	1942	27.99302203	157	69	University of Kansas	Liver hepatocellular carcinoma	165	160
+TCGA-DD-AAD5-01A	TCGA-DD-AAD5	54	G3	stage i	349	70	2011	not hispanic or latino	male	asian	Alive	1957	24.22145329	170	70	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1058	70
+TCGA-HP-A5N0-01A	TCGA-HP-A5N0	90		not reported		65		not reported	female	not reported	Dead		26.70940171	156	65	Ontario Institute for Cancer Research (OICR)	Liver hepatocellular carcinoma		350
+TCGA-DD-AAVZ-01A	TCGA-DD-AAVZ	38	G2	stage i	98	62	2009	not hispanic or latino	male	asian	Alive	1971	21.20310523	171	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1777	80
+TCGA-DD-AADW-01A	TCGA-DD-AADW	48	G3	stage i	102	49	2013	not hispanic or latino	male	asian	Alive	1965	18.44254582	163	49	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	287	30
+TCGA-DD-A1EI-01A	TCGA-DD-A1EI	46	G2	stage i	148	69	2008	not hispanic or latino	male	asian	Alive	1962	22.53061224	175	69	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	926	80
+TCGA-CC-A123-01A	TCGA-CC-A123	24	G1	stage iiia			2010	not hispanic or latino	female	asian	Alive	1986				ILSBio	Liver hepatocellular carcinoma	49	280
+TCGA-DD-A1EA-01A	TCGA-DD-A1EA	68	G2	stage ii	209	94	2002	not hispanic or latino	male	asian	Alive	1934	33.30498866	168	94	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3298	80
+TCGA-DD-A3A4-01A	TCGA-DD-A3A4	37	G3	stage iiia	283	65	1998	not hispanic or latino	male	white	Dead	1961	18.19657904	189	65	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	4776	160
+TCGA-5R-AAAM-01A	TCGA-5R-AAAM	65	G2	stage ii	68000	80	2013	not hispanic or latino	female	white	Dead	1948	30.1102789	163	80	Proteogenex, Inc	Liver hepatocellular carcinoma	35	730
+TCGA-CC-A7IG-01A	TCGA-CC-A7IG	47	G2	stage ii		62	2013	not hispanic or latino	male	asian	Dead	1966	20.47826661	174	62	ILSBio	Liver hepatocellular carcinoma	239	210
+TCGA-LG-A9QD-01A	TCGA-LG-A9QD	68	G2	stage iiia	320	74	2013	hispanic or latino	male	white	Alive	1945	26.21882086	168	74	Hartford Hospital	Liver hepatocellular carcinoma	28	1580
+TCGA-ZS-A9CD-01A	TCGA-ZS-A9CD	73	G2	stage ii	198		2010	not hispanic or latino	male	white	Dead	1937				Tayside Tissue Bank	Liver hepatocellular carcinoma	1268	30
+TCGA-UB-A7MC-01A	TCGA-UB-A7MC	59	G3	stage iiia	200	78	2013	not hispanic or latino	male	white	Alive	1954	25.18078512	176	78	UCSF	Liver hepatocellular carcinoma	88	540
+TCGA-ED-A7PZ-01A	TCGA-ED-A7PZ	61	G2	stage ii	289	50	2013	not hispanic or latino	male	asian	Alive	1952	19.77769867	159	50	Asterand	Liver hepatocellular carcinoma	78	1350
+TCGA-2Y-A9H8-01A	TCGA-2Y-A9H8	85	G2	not reported	255	40	2011	not hispanic or latino	female	white	Dead	1926	17.77777778	150	40	Moffitt Cancer Center	Liver hepatocellular carcinoma	792	80
+TCGA-BC-A217-01A	TCGA-BC-A217	75	G3	stage ii	243000	81	2010	not reported	female	white	Dead	1935	30.48665738	163	81	UNC	Liver hepatocellular carcinoma	408	240
+TCGA-CC-A7IF-01A	TCGA-CC-A7IF	59	G1	stage iiia		58	2013	not hispanic or latino	male	asian	Dead	1954	20.30741221	169	58	ILSBio	Liver hepatocellular carcinoma	236	380
+TCGA-DD-A39Z-01A	TCGA-DD-A39Z	43	G2	stage ii	437	61	1996	not reported	female	not reported	Dead	1953	22.40587695	165	61	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	5728	250
+TCGA-UB-A7ME-01A	TCGA-UB-A7ME	51	G2	stage i	181	75	2013	not hispanic or latino	male	asian	Alive	1962	27.54820937	165	75	UCSF	Liver hepatocellular carcinoma	154	70
+TCGA-ZP-A9D4-01A	TCGA-ZP-A9D4	64	G1	not reported	292000	55	2012	not hispanic or latino	female	white	Alive	1948	22.89281998	155	55	Medical College of Wisconsin	Liver hepatocellular carcinoma	472	50
+TCGA-DD-A4NB-01A	TCGA-DD-A4NB	25	G2	stage i	296	69	2011	not hispanic or latino	male	white	Alive	1986	20.16070124	185	69	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	464	180
+TCGA-CC-A9FS-01A	TCGA-CC-A9FS	55	G2	stage ii		72	2013	not hispanic or latino	male	asian	Alive	1958	23.78121284	174	72	ILSBio	Liver hepatocellular carcinoma	142	190
+TCGA-BC-A112-01A	TCGA-BC-A112	80	G2	not reported	218	97	2009	not hispanic or latino	male	white	Dead	1929	35.62901745	165	97	UNC	Liver hepatocellular carcinoma	538	70
+TCGA-DD-AACK-01A	TCGA-DD-AACK	70	G2	stage i	98	68	2008	not hispanic or latino	male	asian	Alive	1938	22.98539751	172	68	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1828	140
+TCGA-DD-A73G-01A	TCGA-DD-A73G	73	G3	stage i	460	44	2005	not hispanic or latino	female	white	Alive	1932	18.31425598	155	44	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3045	240
+TCGA-DD-AAVY-01A	TCGA-DD-AAVY	56	G2	stage iiia	210	63	2009	not hispanic or latino	male	asian	Alive	1953	24.30461788	161	63	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1826	40
+TCGA-G3-AAV7-01A	TCGA-G3-AAV7	38	G2	stage ii	179	58	2013	not hispanic or latino	male	asian	Alive	1975	21.30394858	165	58	Alberta Health Services	Liver hepatocellular carcinoma	52	120
+TCGA-G3-A5SL-01A	TCGA-G3-A5SL	70	G2	stage ii	295	88	2012	not hispanic or latino	male	white	Alive	1942	27.16049383	180	88	Alberta Health Services	Liver hepatocellular carcinoma	236	220
+TCGA-CC-A7IL-01A	TCGA-CC-A7IL	61	G1	stage iiia		63	2013	not hispanic or latino	male	asian	Dead	1952	20.80856124	174	63	ILSBio	Liver hepatocellular carcinoma	161	230
+TCGA-RC-A7S9-01A	TCGA-RC-A7S9	47	G3	stage i	178000	58	2012	not hispanic or latino	female	asian	Alive	1965	22.37567995	161	58	University of Utah	Liver hepatocellular carcinoma	383	20
+TCGA-G3-A3CI-01A	TCGA-G3-A3CI	71	G2	stage i	186	98	2011	not hispanic or latino	male	white	Alive	1940	35.13930223	167	98	Alberta Health Services	Liver hepatocellular carcinoma	258	370
+TCGA-DD-AACX-01A	TCGA-DD-AACX	66	G3	stage ii	179	53	2010	not hispanic or latino	male	asian	Alive	1944	22.0603538	155	53	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1183	30
+TCGA-ED-A97K-01A	TCGA-ED-A97K	54	G2	stage iiia	264	64	2013	not hispanic or latino	male	asian	Alive	1959	22.14532872	170	64	Asterand	Liver hepatocellular carcinoma	92	1650
+TCGA-EP-A2KC-01A	TCGA-EP-A2KC	62	G3	stage i	193		2011	not hispanic or latino	male	black or african american	Dead	1949		171		Christiana Healthcare	Liver hepatocellular carcinoma	30	260
+TCGA-DD-A11D-01A	TCGA-DD-A11D	57	G2	stage i	249	73	2006	not hispanic or latino	female	white	Dead	1949	27.47562949	163	73	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1731	300
+TCGA-DD-A73C-01A	TCGA-DD-A73C	65	G1	stage iiia	247	49	2012	not hispanic or latino	female	white	Alive	1947	19.38214469	159	49	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	288	160
+TCGA-EP-A12J-01A	TCGA-EP-A12J	62	G1	stage i	187		2010	not hispanic or latino	male	black or african american	Alive	1948		173		Christiana Healthcare	Liver hepatocellular carcinoma	59	300
+TCGA-DD-A4NS-01A	TCGA-DD-A4NS	61	G2	stage i	270	58	2005	not hispanic or latino	female	white	Dead	1944	20.79672989	167	58	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2596	140
+TCGA-BC-A110-01A	TCGA-BC-A110	51	G1	not reported	288	91	2003	not hispanic or latino	female	black or african american	Dead	1952	37.87721124	155	91	UNC	Liver hepatocellular carcinoma	2629	280
+TCGA-BD-A3ER-01A	TCGA-BD-A3ER	62	G2	stage ii	208	111	2011	not hispanic or latino	male	white	Alive	1949	31.4056134	188	111	University of Pittsburgh	Liver hepatocellular carcinoma	23	90
+TCGA-BC-4073-01B	TCGA-BC-4073	73	G3	stage iiia	253		2009	not hispanic or latino	male	white	Alive	1936				UNC	Liver hepatocellular carcinoma	398	230
+TCGA-DD-AAEK-01A	TCGA-DD-AAEK	51	G3	stage ii	202	64	2010	not hispanic or latino	male	asian	Alive	1959	22.40817899	169	64	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1162	10
+TCGA-ED-A7XP-01A	TCGA-ED-A7XP	53	G3	stage ii	108	54	2013	not hispanic or latino	female	asian	Alive	1960	21.90758246	157	54	Asterand	Liver hepatocellular carcinoma	62	780
+TCGA-G3-A25S-01A	TCGA-G3-A25S	64	G2	stage i	313	73	2009	not hispanic or latino	male	white	Dead	1945	26.4915082	166	73	Alberta Health Services	Liver hepatocellular carcinoma	707	480
+TCGA-G3-AAV2-01A	TCGA-G3-AAV2	50	G1	stage i	110		2013	not hispanic or latino	male	white	Alive	1963				Alberta Health Services	Liver hepatocellular carcinoma	136	500
+TCGA-UB-AA0U-01A	TCGA-UB-AA0U	60	G2	stage ii	227	93	2013	not hispanic or latino	male	white	Alive	1953	29.3523545	178	93	UCSF	Liver hepatocellular carcinoma	18	730
+TCGA-RG-A7D4-01A	TCGA-RG-A7D4	69	G2	stage ii	175	87	2012	not hispanic or latino	male	black or african american	Alive	1943	29.40778799	172	87	Montefiore Medical Center	Liver hepatocellular carcinoma	530	250
+TCGA-DD-AAW3-01A	TCGA-DD-AAW3	69	G2	stage i	241	64	2009	not hispanic or latino	male	asian	Alive	1940	24.38652644	162	64	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1507	60
+TCGA-DD-A1EB-01A	TCGA-DD-A1EB	72	G2	stage i	204	57	2001	not reported	female	not reported	Alive	1929	21.19274242	164	57	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	3538	180
+TCGA-DD-AADU-01A	TCGA-DD-AADU	60	G3	stage ii	223	73	2013	not hispanic or latino	male	asian	Alive	1953	26.4915082	166	73	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	280	30
+TCGA-CC-A3MA-01A	TCGA-CC-A3MA	61	G2	stage iiia		66	2011	not hispanic or latino	male	asian	Dead	1950	23.38435374	168	66	ILSBio	Liver hepatocellular carcinoma	177	530
+TCGA-DD-AADM-01A	TCGA-DD-AADM	58	G3	stage ii	126	55	2012	not hispanic or latino	male	asian	Dead	1954	21.75546853	159	55	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	704	20
+TCGA-FV-A2QQ-01A	TCGA-FV-A2QQ	80	G2	stage i			2011	not hispanic or latino	male	white	Alive	1931				International Genomics Consortium	Liver hepatocellular carcinoma	71	150
+TCGA-QA-A7B7-01A	TCGA-QA-A7B7	48	G2	stage ii	218	108	2013	not hispanic or latino	male	black or african american	Alive	1965	33.33333333	180	108	Emory University	Liver hepatocellular carcinoma	27	80
+TCGA-CC-A5UD-01A	TCGA-CC-A5UD	45	G2	stage iiia		62	2012	not hispanic or latino	male	asian	Dead	1967	21.4532872	170	62	ILSBio	Liver hepatocellular carcinoma	92	310
+TCGA-DD-AACZ-01A	TCGA-DD-AACZ	63	G4	stage i	412	52	2010	not hispanic or latino	female	asian	Dead	1947	23.42236836	149	52	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1147	60
+TCGA-XR-A8TG-01A	TCGA-XR-A8TG	58	G2	stage i	80000	71	2012	hispanic or latino	male	white	Alive	1954	20.97117202	184	71	University of Sao Paulo	Liver hepatocellular carcinoma	439	20
+TCGA-DD-A3A7-01A	TCGA-DD-A3A7	67	G3	stage iiib	562	80	1998	not reported	male	not reported	Dead	1931	22.63467632	188	80	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	4772	130
+TCGA-DD-AAD1-01A	TCGA-DD-AAD1	51	G4	stage i	157	44	2010	not hispanic or latino	female	asian	Alive	1959	16.97465376	161	44	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1114	10
+TCGA-DD-A3A2-01A	TCGA-DD-A3A2	76	G1	stage i	326	85	1998	not hispanic or latino	female	white	Dead	1922	26.82742078	178	85	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	4962	250
+TCGA-RC-A7SH-01A	TCGA-RC-A7SH	42	G3	stage ii	225	68	2012	not hispanic or latino	male	asian	Alive	1970	22.46003435	174	68	University of Utah	Liver hepatocellular carcinoma	271	10
+TCGA-RC-A6M3-01A	TCGA-RC-A6M3	24	G3	stage ii			2009	not reported	male	american indian or alaska native	Alive	1985		175		University of Utah	Liver hepatocellular carcinoma	1539	50
+TCGA-DD-AACY-01A	TCGA-DD-AACY	61	G3	stage i	114	62	2010	not hispanic or latino	male	asian	Alive	1949	23.62444749	162	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1154	60
+TCGA-CC-A7IK-01A	TCGA-CC-A7IK	59	G3	stage iiia		57	2013	not hispanic or latino	male	asian	Dead	1954	20.19557823	168	57	ILSBio	Liver hepatocellular carcinoma	163	470
+TCGA-DD-AAE1-01A	TCGA-DD-AAE1	52	G3	stage i	102	62	2013	not hispanic or latino	male	asian	Alive	1961	21.70792339	169	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	321	50
+TCGA-5C-AAPD-01A	TCGA-5C-AAPD	61	G1	stage ii		69	2013	not hispanic or latino	male	asian	Alive	1952	23.32341806	172	69	Cureline	Liver hepatocellular carcinoma	55	140
+TCGA-DD-AAVP-01A	TCGA-DD-AAVP	48	G1	stage i	189	62	2007	not hispanic or latino	male	asian	Alive	1959	22.23098713	167	62	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2467	100
+TCGA-ED-A7PX-01A	TCGA-ED-A7PX	48	G3	stage ii	239	43	2013	not hispanic or latino	female	asian	Alive	1965	16.58886617	161	43	Asterand	Liver hepatocellular carcinoma	86	830
+TCGA-DD-AAD6-01A	TCGA-DD-AAD6	66	G3	stage iiia	185	93	2011	not hispanic or latino	male	asian	Alive	1945	33.34648069	167	93	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1035	70
+TCGA-BC-A10X-01A	TCGA-BC-A10X	52	G2	stage iiia	602	65	2002	not hispanic or latino	female	white	Dead	1950			65	UNC	Liver hepatocellular carcinoma	3080	520
+TCGA-CC-A1HT-01A	TCGA-CC-A1HT	50	G3	stage iiia		54	2010	not hispanic or latino	male	asian	Dead	1960	20.32443826	163	54	ILSBio	Liver hepatocellular carcinoma	86	470
+TCGA-DD-AACI-01A	TCGA-DD-AACI	69	G3	stage ii	106	48	2008	not hispanic or latino	male	asian	Alive	1939	19.97918835	155	48	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1870	320
+TCGA-BC-4072-01B	TCGA-BC-4072	74	G3	stage iiia	268		2005	not hispanic or latino	female	white	Dead	1931				UNC	Liver hepatocellular carcinoma	2256	270
+TCGA-YA-A8S7-01A	TCGA-YA-A8S7	68	G3	stage iiia		73	2012	hispanic or latino	male	white	Dead	1944	27.14158239	164	73	Spectrum Health	Liver hepatocellular carcinoma	383	160
+TCGA-BW-A5NQ-01A	TCGA-BW-A5NQ	63	G3	stage i			2010	not hispanic or latino	male	white	Alive	1947				St. Joseph's Medical Center-(MD)	Liver hepatocellular carcinoma	1022	160
+TCGA-DD-AAC9-01A	TCGA-DD-AAC9	51	G2	stage i	149	81	2008	not hispanic or latino	male	asian	Alive	1957	26.75386445	174	81	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2069	130
+TCGA-DD-A119-01A	TCGA-DD-A119	40	G3	stage iv	572	58	2003	not hispanic or latino	male	asian	Dead	1963	22.65625	160	58	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	2738	160
+TCGA-XR-A8TC-01A	TCGA-XR-A8TC	43	G2	stage i	318000	52	2011	hispanic or latino	female	white	Alive	1968	21.64412071	155	52	University of Sao Paulo	Liver hepatocellular carcinoma	908	110
+TCGA-DD-AADG-01A	TCGA-DD-AADG	70	G3	stage iiia	170	61	2011	not hispanic or latino	male	asian	Alive	1941	23.828125	160	61	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	862	80
+TCGA-G3-A7M9-01A	TCGA-G3-A7M9	70	G2	stage iiib	187	73	2013	not hispanic or latino	male	white	Dead	1943	25.25951557	170	73	Alberta Health Services	Liver hepatocellular carcinoma	86	1500
+TCGA-CC-A9FW-01A	TCGA-CC-A9FW	68	G2	stage iiia		67	2013	not hispanic or latino	male	asian	Alive	1945	21.87755102	175	67	ILSBio	Liver hepatocellular carcinoma	125	300
+TCGA-DD-AADR-01A	TCGA-DD-AADR	58	G3	stage i	75	75	2009	not hispanic or latino	male	asian	Alive	1951	25.95155709	170	75	Mayo Clinic - Rochester	Liver hepatocellular carcinoma	1754	90
+TCGA-EP-A26S-01A	TCGA-EP-A26S	70	G2	stage i	234	41	2011	not hispanic or latino	male	white	Alive	1941	14.52664399	168	41	Christiana Healthcare	Liver hepatocellular carcinoma	91	520

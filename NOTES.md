@@ -1,3 +1,0 @@
-- How coding is done by the students?
-- Overall how does it go?
-- Paper?
