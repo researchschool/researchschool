@@ -19,7 +19,7 @@ defaults:
 menu:
   - title: Home
     url:
-  - title: Schedule
-    url: schedule
+  - title: Instructions
+    url: instructions
   - title: Contact
     url: contact
