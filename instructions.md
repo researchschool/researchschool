@@ -14,7 +14,7 @@ The following lessons will be taught with the help of [Google colaboratory][1] a
 
 3. You should see the following screen, where you can select the script to open.
 
-<img src="img/colab.png">
+<img src="img/colab.png" width="500">
 
 **Lessons:**
 
