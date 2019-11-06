@@ -10,7 +10,7 @@ The following lessons will be taught with the help of [Google colaboratory][1] a
 1. Open [Google colaboratory][1]
 2. Once inside the notebook, click "Github" at the top and type this in the search url: 
     
-    https://github.com/researchschool/researchschool
+    `https://github.com/researchschool/`
 
 3. You should see the following screen, where you can select the script to open.
 
