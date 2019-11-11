@@ -18,7 +18,7 @@ The following lessons will be taught with the help of [Google colaboratory][1] a
 
 **Lessons:**
 
-- Lesson 1: Introduction to programming with Python  ([Code][3]).
+- Lesson 1: Introduction to programming with Python  ([Code][3] and [Slide][5])
 - Lesson 2: Introduction to genomics ([Code][4]).
 - Lesson 3: Studying cancer with python.
 
@@ -28,3 +28,4 @@ Further information and slides available soon.
 [2]: https://jupyter.org/
 [3]: https://github.com/researchschool/researchschool/blob/master/scripts/01_hello_world.ipynb
 [4]: https://github.com/researchschool/researchschool/blob/master/scripts/02_data_science.ipynb
+[5]: slides/datalab_intro.pdf
