@@ -18,7 +18,7 @@ The following lessons will be taught with the help of [Google colaboratory][1] a
 
 **Lessons:**
 
-- Lesson 1: Introduction to programming with Python  ([Code][3] and [Slide][5])
+- Lesson 1: Introduction to programming with Python  ([Code][3] and [Slides][5])
 - Lesson 2: Introduction to genomics ([Code][4]).
 - Lesson 3: Studying cancer with python.
 
