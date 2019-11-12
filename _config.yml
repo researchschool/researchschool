@@ -19,7 +19,7 @@ defaults:
 menu:
   - title: Home
     url:
-  - title: Instructions
-    url: instructions
+  - title: Data lab
+    url: datalab
   - title: Contact
     url: contact
