@@ -20,4 +20,4 @@ Researcher presentations:
 
 [1]: https://www.scilifelab.se/news/scilifelab-brings-research-to-school/
 [2]: instructions.md
-[3]: MajaMarklund-presentation.pdf
+[3]: slides/MajaMarklund-presentation.pdf
