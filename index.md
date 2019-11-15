@@ -14,6 +14,7 @@ The ResearchSchool initiative aims at bringing research to high school students 
 
 Researcher presentations:
  - Maja Marklund, PhD student in spatial research, KTH - [presentation][3]
+ - Husen Umer, postodoctoral researcher at KI developing bioinformatic solutions and software tools for cancer immunotherapy - [presentation][4]
 
 
 
@@ -21,3 +22,4 @@ Researcher presentations:
 [1]: https://www.scilifelab.se/news/scilifelab-brings-research-to-school/
 [2]: instructions.md
 [3]: slides/MajaMarklund-presentation.pdf
+[4]: slides/HusenUmer-presentation.pdf
