@@ -18,7 +18,7 @@ Data lab: If you are taking this class, please go to [data lab][2] to learn what
 Researcher presentations:
  - Maja Marklund, PhD student in spatial research, KTH - [presentation][3]
  - Husen Umer, postodoctoral researcher at KI developing bioinformatic solutions and software tools for cancer immunotherapy - [presentation][4]
- - Cecilie Engel Thomas, postdoc using bioinformatics to study metabolic diseases at the Science for Life Laboratory - [presentation][5]]
+ - Cecilie Engel Thomas, postdoc using bioinformatics to study metabolic diseases at the Science for Life Laboratory - [presentation][5]
 
 
 [1]: https://www.scilifelab.se/news/scilifelab-brings-research-to-school/
